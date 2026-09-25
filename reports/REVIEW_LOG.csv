@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe màu tối ở làn phải và xe ở xa,added,Mô hình bỏ sót do thân xe chìm vào bóng tối; thêm box ôm thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,box xe làn giữa ôm cả vệt đèn pha,edited,Box AI kéo dài ôm trùm vệt sáng phản chiếu trên mặt đường; chỉnh lại mép box ôm sát đầu xe
+1,frame_0331.jpg,vệt phản chiếu ánh sáng trên mặt đường,deleted,Ánh đèn pha phản chiếu trên mặt đường không phải xe thật; xóa box theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,xe sedan trắng làn trái nhìn rõ thân,accepted,Box AI đề xuất đã ôm sát thân xe gương và đèn; đúng quy tắc nên giữ nguyên

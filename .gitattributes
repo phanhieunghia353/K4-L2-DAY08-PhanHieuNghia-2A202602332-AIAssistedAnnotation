@@ -1,0 +1,4 @@
+# Keep LF line endings for test labels to ensure SHA-256 hash integrity
+data/test/labels/*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
